@@ -9,9 +9,8 @@ Social Mongo is a social network API that uses the latest MoSQL Mongo Database t
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Live Site](#livesite)
 - [Preview](#preview)
+- [Walkthough video](#walkthrough-video)
 - [Questions](#questions)
 - [License](#license)
 
